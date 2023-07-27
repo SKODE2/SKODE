@@ -40,7 +40,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SKODE2&theme=dark&card_width=240&hide_longest_streak=true)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SKODE2&theme=dark&card_width=240&hide_longest_streak=true)](https://git.io/streak-stats) ![SKODE2's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKODE2&show_icons=true&theme=dark)
 
 
   
